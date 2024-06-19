@@ -18,5 +18,5 @@ Sou Técnico em Informática formado pela Etec Lauro Gomes em 2016, e atualmente
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-#### _"Onde você foca, determina o que vê."_
+### _"Onde você foca, determina o que vê."_
 
