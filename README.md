@@ -7,7 +7,6 @@ Sou Técnico em Informática formado pela Etec Lauro Gomes em 2016, e atualmente
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelowil/)
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelowil&show_icons=true&theme=github_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelowil)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
