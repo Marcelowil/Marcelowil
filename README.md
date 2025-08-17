@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou formado como técnico em informática pela Etec Lauro Gomes em 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul (USCS). Estou entusiasmado em embarcar na minha jornada como desenvolvedor e estou buscando minha primeira oportunidade no mercado.
+Sou formado como técnico em informática pela Etec Lauro Gomes em 2016 e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul (USCS).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelowil/)
 
