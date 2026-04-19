@@ -25,5 +25,11 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
+### 🚀 Projetos em Destaque
+
+[![doisv-back](https://github-readme-stats.vercel.app/api/pin/?username=Logistica-2V&repo=doisv-back&theme=github_dark)](https://github.com/Logistica-2V/doisv-back)
+
+---
+
 ### _"Onde você foca, determina o que vê."_
 
